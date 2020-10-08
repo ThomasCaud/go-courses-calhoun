@@ -12,11 +12,9 @@ Solutions are validated via unit tests.
 - 06 - Convert a number in any base (2-16) to decimal
 - 07 - Convert a number from any base to any other base (2-16)
 - ✔ 08 - Find two numbers in a list that sum to a given amount
-- 09 - Factor a number
-- 10 - Fibonacci numbers
-- 11 - Greatest common divisor (GCD)
-- 12 - Stdin and stdout
-
+- ✔ 09 - Factor a number
+- ✔ 10 - Fibonacci numbers
+- ✔ 11 - Greatest common divisor (GCD)
 
 ### Module 2: Sorting Algorithms
 - 01 - Bubble sort
