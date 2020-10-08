@@ -4,22 +4,21 @@ Solutions are validated via unit tests.
 
 ## Chapter 1: Algorithms with Go
 ### Module 1: Getting Started with Algorithms
-- Find a number in a list of numbers
-- Sum a list of numbers
-- Reverse a string
-- The classic FizzBuzz problem
-- Convert a decimal to any base (2-16)
-- Convert a number in any base (2-16) to decimal
-- Convert a number from any base to any other base (2-16)
-- Find two numbers in a list that sum to a given amount
-- Factor a number
-- Fibonacci numbers
-- Greatest common divisor (GCD)
-- Stdin and stdout
+- ✔ 01 - Find a number in a list of numbers
+- ✔ 02 - Sum a list of numbers
+- ✔ 03 - Reverse a string
+- ✔ 04 - The classic FizzBuzz problem
+- 05 - Convert a decimal to any base (2-16)
+- 06 - Convert a number in any base (2-16) to decimal
+- 07 - Convert a number from any base to any other base (2-16)
+- ✔ 08 - Find two numbers in a list that sum to a given amount
+- 09 - Factor a number
+- 10 - Fibonacci numbers
+- 11 - Greatest common divisor (GCD)
+- 12 - Stdin and stdout
 
 
 ### Module 2: Sorting Algorithms
-- Bubble sort
-- Insertion sort
-- Quick sort
-- 
+- 01 - Bubble sort
+- 02 - Insertion sort
+- 03 - Quick sort
