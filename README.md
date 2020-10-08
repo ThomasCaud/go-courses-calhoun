@@ -8,9 +8,9 @@ Solutions are validated via unit tests.
 - ✔ 02 - Sum a list of numbers
 - ✔ 03 - Reverse a string
 - ✔ 04 - The classic FizzBuzz problem
-- 05 - Convert a decimal to any base (2-16)
-- 06 - Convert a number in any base (2-16) to decimal
-- 07 - Convert a number from any base to any other base (2-16)
+- ✔ 05 - Convert a decimal to any base (2-16)
+- ✔ 06 - Convert a number in any base (2-16) to decimal
+- ✔ 07 - Convert a number from any base to any other base (2-16)
 - ✔ 08 - Find two numbers in a list that sum to a given amount
 - ✔ 09 - Factor a number
 - ✔ 10 - Fibonacci numbers
