@@ -40,21 +40,14 @@ func BubbleSortString(list []string) {
 // BubbleSortPerson uses bubble sort to sort Person slices by: Age, then
 // LastName, then FirstName.
 func BubbleSortPerson(people []Person) {
-	isSorted := func(a, b Person) bool {
-		if a.Age != b.Age {
-			return a.Age < b.Age
-		}
-		if a.LastName != b.LastName {
-			return a.LastName < b.LastName
-		}
-		return a.FirstName < b.FirstName
-	}
+	var p People
+	p = people
 
 	for sweepIndex, _ := range people {
 		swapped := false
 		for i := 0 ; i < len(people) - 1 - sweepIndex ; i++ {
-			if isSorted(people[i+1], people[i]) {
-				people[i], people[i+1] = people[i+1], people[i]
+			if p.Less(i+1, i) {
+				p.Swap(i+1, i)
 				swapped = true
 			}
 		}
