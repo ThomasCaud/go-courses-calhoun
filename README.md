@@ -1,6 +1,6 @@
 # go-courses-calhoun
 Some of my solutions of Go exercices from courses of https://courses.calhoun.io/courses
-Solutions are validated via unit tests.
+Solutions are validated via unit tests from @joncalhoun (thanks!).
 
 ## Chapter 1: Algorithms with Go
 ### Module 1: Getting Started with Algorithms
@@ -17,6 +17,6 @@ Solutions are validated via unit tests.
 - ✔ 11 - Greatest common divisor (GCD)
 
 ### Module 2: Sorting Algorithms
-- 01 - Bubble sort
+- ✔ 01 - Bubble sort
 - 02 - Insertion sort
 - 03 - Quick sort
