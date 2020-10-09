@@ -18,5 +18,6 @@ Solutions are validated via unit tests from @joncalhoun (thanks!).
 
 ### Module 2: Sorting Algorithms
 - ✔ 01 - Bubble sort
-- 02 - Insertion sort
-- 03 - Quick sort
+- ✔ 02 - Insertion sort
+- ? 03 - Quick sort
+- ? 04 - Merge sort 
