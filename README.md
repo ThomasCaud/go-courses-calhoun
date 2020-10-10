@@ -1,5 +1,5 @@
 # go-courses-calhoun
-Some of my solutions of Go exercices from courses of https://courses.calhoun.io/courses
+Some of my solutions of Go exercices from courses of https://courses.calhoun.io/courses (module01 and module02 folder).
 Solutions are validated via unit tests from @joncalhoun (thanks!).
 
 ## Chapter 1: Algorithms with Go
@@ -20,4 +20,16 @@ Solutions are validated via unit tests from @joncalhoun (thanks!).
 - ✔ 01 - Bubble sort
 - ✔ 02 - Insertion sort
 - ? 03 - Quick sort
-- ? 04 - Merge sort 
+- ? 04 - Merge sort
+
+### Module 3: Building web apps with go
+See course [here](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/go_makes_things_simple/index.html)
+- ✔ The net/http package
+- ✔ Basic web app
+- ✔ Deployment
+- URL Routing
+- Middleware
+- Rendering
+- Testing
+- Controllers
+- Databases
