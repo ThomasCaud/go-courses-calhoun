@@ -27,9 +27,11 @@ See course [here](https://codegangsta.gitbooks.io/building-web-apps-with-go/cont
 - ✔ The net/http package
 - ✔ Basic web app
 - ✔ Deployment
-- URL Routing
-- Middleware
-- Rendering
-- Testing
-- Controllers
-- Databases
+- ~URL Routing~
+- ~Middleware~
+- ~Rendering~
+- ~Testing~
+- ~Controllers~
+- ~Databases~
+
+Currently building API [here](https://github.com/ThomasCaud/restful-api-go)
